@@ -1,0 +1,5 @@
+interface:
+  display_name: "Co-Agentmemory"
+  short_description: "Share agent context through memory and Obsidian"
+  default_prompt: "Use $co-agentmemory to join a shared AgentMemory and Obsidian workspace."
+
