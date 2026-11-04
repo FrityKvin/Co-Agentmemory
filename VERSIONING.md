@@ -8,4 +8,3 @@ This project uses semantic versioning.
 
 The first public release should be tagged after the repository has passed the
 standard-library test suite and a manual configuration review.
-

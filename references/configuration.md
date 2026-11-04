@@ -88,4 +88,3 @@ The default `agent_comemory_dir` is `Agent_Comemory`. The default personal wiki
 name is `Personal_Wiki`. Both can be changed to safe paths relative to the
 configured Vault; the writers use the configured agent workspace. The personal
 wiki layout is a recommendation, not a schema enforced by the scripts.
-

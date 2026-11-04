@@ -93,4 +93,3 @@ python3 -m py_compile scripts/*.py
 ## 许可证
 
 MIT，见 [`LICENSE`](./LICENSE)。
-

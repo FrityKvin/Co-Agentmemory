@@ -35,4 +35,3 @@ record; retries are at-least-once and can create duplicates.
 - Keep test records clearly marked and delete them after verification.
 - Validate health, authentication, search, and write delivery separately.
 - Protect backups and outbox files as private data; they can contain memory text.
-

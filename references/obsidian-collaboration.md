@@ -70,4 +70,3 @@ Preserve historical Daily entries, meeting notes, decisions, logs, handoffs,
 and references. Update current indexes, active tasks, guidance, pending items,
 runbooks, and essential links so they point to the archive or say the project
 is no longer active. Reopening requires an explicit decision.
-

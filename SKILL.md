@@ -137,4 +137,3 @@ Use runtime environment injection for `AGENTMEMORY_SECRET`.
 - [MCP onboarding](references/mcp-onboarding.md)
 - [Obsidian collaboration](references/obsidian-collaboration.md)
 - [AgentMemory integration](references/agentmemory-integration.md)
-

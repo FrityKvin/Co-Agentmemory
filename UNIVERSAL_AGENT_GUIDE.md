@@ -28,4 +28,3 @@ The recommended personal Daily path is
 Never write credentials to shared memory or Markdown. If AgentMemory is
 unreachable, preserve the outbox and run `python3 scripts/doctor.py --flush-outbox`
 after connectivity returns.
-

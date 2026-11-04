@@ -38,4 +38,3 @@ its exact file format and restart behavior.
 An MCP tool listing alone does not prove that automatic memory capture or
 lifecycle hooks are enabled. A health endpoint alone does not prove that
 authentication, search, or writes work.
-

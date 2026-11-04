@@ -106,4 +106,3 @@ python3 -m py_compile scripts/*.py
 ## License
 
 MIT. See [`LICENSE`](./LICENSE).
-

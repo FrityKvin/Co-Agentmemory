@@ -119,4 +119,3 @@ profile 或 commit。`AGENTMEMORY_SECRET` 通过运行时环境注入。
 - [MCP 接入](references/mcp-onboarding.md)
 - [Obsidian 协作](references/obsidian-collaboration.md)
 - [AgentMemory 集成](references/agentmemory-integration.md)
-
